@@ -4,8 +4,6 @@ CREATE TABLE "category" (
     "category_name" VARCHAR NOT NULL
 );
 
-SELECT category. emp_no, last_name, first_name, sex, salary
-FROM category
 
 	
 -- Create the subcategory table
